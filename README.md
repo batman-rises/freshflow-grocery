@@ -23,9 +23,9 @@ Live Demo: https://freshflow-grocery.vercel.app/
 
 ## Tech Stack
 
-- React (or Next.js)  
+- React 
 - Tailwind CSS for styling  
-- React Context API (or other state management)  
+- React Context API 
 - Vercel for hosting
 
 ---
